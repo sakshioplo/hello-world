@@ -2,5 +2,7 @@
 #include<conio.h>
 void main()
 {
-  print("Hello World");
+  printf("Hello World");
+  
+  printf("\nThis is a basic C  Program");
 }
